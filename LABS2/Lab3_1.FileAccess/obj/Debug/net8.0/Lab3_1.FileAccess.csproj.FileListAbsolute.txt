@@ -1,0 +1,11 @@
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.AssemblyInfoInputs.cache
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.AssemblyInfo.cs
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.csproj.CoreCompileInputs.cache
+D:\Lab3_1.FileAccess\bin\Debug\net8.0\Lab3_1.FileAccess.deps.json
+D:\Lab3_1.FileAccess\bin\Debug\net8.0\Lab3_1.FileAccess.dll
+D:\Lab3_1.FileAccess\bin\Debug\net8.0\Lab3_1.FileAccess.pdb
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.dll
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\refint\Lab3_1.FileAccess.dll
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\Lab3_1.FileAccess.pdb
+D:\Lab3_1.FileAccess\obj\Debug\net8.0\ref\Lab3_1.FileAccess.dll
